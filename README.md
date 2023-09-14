@@ -18,12 +18,12 @@ Taylor is a Linux expert who wants to have an online system where she can handle
 
 3.1. METHODOLOGY:
 
-<img width="500" alt="Screenshot 2023-09-13 at 9 51 07 PM" src="https://github.com/keerthanamg/Round-robin-algorithm/assets/88154987/b194bf4c-77ac-4a1b-9016-1f4d06284e49">
+<img width="500" alt="Screenshot 2023-09-13 at 9 51 07 PM" src="https://github.com/keerthanamg/round-robin-algorithm/assets/88154987/b194bf4c-77ac-4a1b-9016-1f4d06284e49">
 
 
 4.OUTPUT SCREENSHOTS:
 
-<img width="700" alt="Screenshot 2023-09-13 at 9 53 42 PM" src="https://github.com/keerthanamg/Round-robin-algorithm/assets/88154987/ffc058f4-0bd9-41bf-b197-473185a5de31">
+<img width="700" alt="Screenshot 2023-09-13 at 9 53 42 PM" src="https://github.com/keerthanamg/round-robin-algorithm/assets/88154987/ffc058f4-0bd9-41bf-b197-473185a5de31">
 
 5.CONCLUSION:
 
